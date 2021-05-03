@@ -1,0 +1,2 @@
+## my requirements txt file for django girls
+Django~=3.2
